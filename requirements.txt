@@ -4,3 +4,6 @@ numpy
 torch
 transformers
 huggingface_hub
+fastapi
+uvicorn
+websockets
