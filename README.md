@@ -5,7 +5,7 @@
 
 ---
 
-## 📸 Demo & Interface
+## 📸 Demo prototype
 
 | Live Streamlit UI | Fast-Inference WebSocket Backend |
 | :---: | :---: |
