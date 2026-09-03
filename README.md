@@ -9,8 +9,7 @@
 
 | Live Streamlit UI | Fast-Inference WebSocket Backend |
 | :---: | :---: |
-| ![Dashboard](assets/dashboard.png) | ![Terminal Output](assets/terminal.png) |
-
+| <img src="assets/ai_detected.png" width="400"/> | <img src="assets/human_verified.png" width="400"/> |
 ---
 
 ## ⚡ Core Features
